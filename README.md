@@ -1,68 +1,20 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+# Bio
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-# Getting Started
+David Wagg is Professor of Nonlinear Dynamics at the University of Sheffield. His research interests are focused on the dynamics and control of engineering  systems including the design, implementation and interoperation of digital twins.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Since November 2022, David has been part-seconded to the Alan Turing Institute in London where he is a Co-Director for the Turing Research and Innovation Cluster for Digital Twins.
 
-See more info at https://academicpages.github.io/
+In August 2023 David launched Digital Twinning NetworkPlus (DTNet+) an inclusive, diverse & multi-disciplinary UK-wide network with research interests that will transform the UK’s national capability in digital twins.  The remit of DTNet+ spans across the entire domain of UKRI research and will explore the human, societal, legal, and ethical aspects of digital twins.  The project is funded by EPSRC,UKRI until July 2028, please find more information at UKRI Digital Twinning NetworkPlus: DTNet+ (dtnetplus.ac.uk)
 
-## Running locally
+Prior to his appointment at the University of Sheffield, David was Professor in the Department of Mechanical Engineering at the University of Bristol. From 2004-2009 he was an EPSRC Advanced Research Fellow. He was awarded his PhD from University College London in 1998.
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+# Research interests
+The performance of engineering systems is governed by how well they behave in their operating environment. For a significant number of applications, including wind power, land transport, aerospace and large civil infrastructure, dynamic effects can dominate the operational regime.
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+In response to the urgent societal need to find technological solutions for global issues such as climate change, the performance envelope for engineering systems is being pushed to new levels. As a result understanding, & controlling dynamic behaviour is crucial for ensuring that we have safe, reliable and efficient engineering systems in the future.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-Start by build the container:
-
-```bash
-docker build -t jekyll-site .
-```
-
-Next, run the container:
-```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
-```
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+David's current research activities include developing techniques for the design, implementation and interoperation of digital twins. Quantifying uncertainties within a dynamic digital twin context is a major topic of interest, that relates to the overall objective of validation of digital twin outputs. Ontological knowledge models (and neurosymbolic AI more widely) for interoperation of digital twins is also an active area of interest.
 
 ---
 <div align="center">
