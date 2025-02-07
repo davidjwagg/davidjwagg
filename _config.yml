@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Wagg / Academic Website"
+title                    : "David Wagg"
 title_separator          : "-"
 name                     : &name "David Wagg"
 description              : &description "personal description"
