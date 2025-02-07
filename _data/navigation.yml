@@ -5,8 +5,8 @@
 # prevent it from being included in the site.
 
 main:
-#   - title: "Publications"
-#     url: /publications/
+   - title: "Publications"
+     url: "https://scholar.google.co.uk/citations?hl=en&user=BfjvDPUAAAAJ&view_op=list_works"
 
 #   - title: "Talks"
 #     url: /talks/    
