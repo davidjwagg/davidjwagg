@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-7266-2105"
   # semantic         : # URL
   # pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : https://www.researchgate.net/profile/D-Wagg
+  researchgate     : "https://www.researchgate.net/profile/D-Wagg"
   # scopus           : # URL
 
   # Repositories and software development
