@@ -21,6 +21,6 @@ Prior to his appointment at the University of Sheffield, David was based at the 
 # Research interests
 David's current research activities include developing techniques for the design, implementation and interoperation of digital twins. Quantifying uncertainties within a dynamic digital twin context is a major topic of interest, that relates to the overall objective of validation of digital twin outputs. In addition, using ontological knowledge models for interoperation of digital twins is also an active area of interest.
 
-David is also leading the [Digital Twinning NetworkPlus (DTNet+)](https://www.dtnetplus.ac.uk/) a multi-disciplinary UK-wide network with research interests that is aiming to transform the UK’s national capability in digital twinning.  The remit of DTNet+ spans across the entire domain of UKRI research and will explore the human, societal, legal, and ethical aspects of digital twins.  The project is funded by EPSRC, UKRI until July 2028. 
+David is also leading the [Digital Twinning NetworkPlus (DTNet+)](https://www.dtnetplus.ac.uk/) a multi-disciplinary UK-wide network with research interests that is aiming to transform the UK’s national capability in digital twinning.  The remit of DTNet+ spans across the entire domain of UKRI research and will explore the human, societal, legal, and ethical aspects of digital twins.  The project is funded by UKRI until July 2028. 
 
 ---
