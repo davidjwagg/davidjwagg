@@ -21,10 +21,10 @@ repository               : "davidjwagg/davidjwagg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Wagg_WK2.jpg"
+  avatar           : "wagg_pic3.jpg"
   name             : "David Wagg"
   # pronouns         : # example: "she/her"  
-  bio              : "David Wagg is Professor of Nonlinear Dynamics at the University of Sheffield and also part seconded to The Alan Turing Institute in London. He is an expert on the dynamics and control of engineering  systems including the design, implementation and interoperation of digital twins. "
+  bio              : "Professor of Nonlinear Dynamics at the University of Sheffield and also part seconded to The Alan Turing Institute in London. He is an expert on the dynamics and control of engineering  systems including the design, implementation and interoperation of digital twins. "
   location         : "UK"
   employer         : "University of Sheffield"
   # uri              : # URL
